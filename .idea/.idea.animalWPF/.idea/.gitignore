@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.animalWPF.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\animalWpf\animalWPF\.idea\.idea.animalWPF\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
